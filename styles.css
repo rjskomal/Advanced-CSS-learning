@@ -1,0 +1,122 @@
+/*ALL THE OTHER CHANGES*/
+body {
+  background-color: black;
+  margin: 0;
+  text-align:center;
+
+}
+hr{
+  border: dotted;
+  color: white;
+  border-bottom: none;
+  width: 6%
+}
+p{
+  color: white;
+  width: 250px;
+  margin: auto;
+  font-family: 'Caveat', cursive;
+  font-size: 20px;
+  font-weight: bolder;
+}
+h1 {
+  color: white;
+  font-family: 'Pacifico', cursive;
+  display: inline-block;
+  font-size: 200%;
+
+}
+h2{
+  font-family: 'Dancing Script', cursive;
+  color: red;
+  font-size: 160%;
+
+
+}
+
+/*CLASSES ONLY*/
+.Rengoku {
+  height: 500px;
+  align-items:center;
+  background-color: black;
+  background-image:url('background.gif'); background-repeat:no-repeat;
+  background-size: 1800px;
+  margin: 0;
+  border: 100px;
+  padding-bottom: 80px;
+}
+
+
+.fire {
+  height: 50px;
+  position: relative;
+  top: 7px;
+
+}
+.rengokudp{
+  border-radius: 25%;
+  width: 160px;
+  height:170px;
+
+}
+.Tanjiro{
+  height: 500px;
+  align-items:center;
+  background-color: grey;
+  background-image:url('tanjiroBG.gif'); background-repeat:no-repeat;
+  background-size: 1500px;
+  padding-bottom: 80px;
+
+}
+.water{
+  height: 30px;
+  position: relative;
+  bottom: 3.75px;
+  left: 5.75px;
+
+
+}
+.tanjirodp{
+  border-radius: 25%;
+  width: 170px;
+  height:170px;
+}
+.thunder{
+  height: 40px;
+  position: relative;
+  top: 4.5px;
+
+}
+.zendp{
+  border-radius: 25%;
+  width: 180px;
+  height:170px;
+}
+.Zenitsu{
+  height: 500px;
+  align-items:center;
+  background-color: black;
+  background-image:url('bg.gif'); background-repeat:no-repeat;
+  background-size: 2400px;
+  padding-bottom: 120px;
+}
+.boar{
+  height: 50px;
+  position: relative;
+  top: 10px;
+  left: 5.75px;
+}
+.inodp{
+  border-radius: 25%;
+  width: 200px;
+  height:170px;
+
+}
+.Inosuke{
+  height: 500px;
+  align-items:center;
+  background-color: black;
+  background-image:url('forest.gif'); background-repeat:no-repeat;
+  background-size: 1500px;
+  padding-bottom: 120px;
+}
